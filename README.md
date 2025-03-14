@@ -1,3 +1,8 @@
+![Screenshot (113)](https://github.com/user-attachments/assets/f2eb2752-4e14-48b1-ba1b-e96cb8643514)
+![Screenshot (114)](https://github.com/user-attachments/assets/6b6c3974-b499-47a7-890b-e0c63a20054b)
+![Screenshot (115)](https://github.com/user-attachments/assets/29d493d1-f5b7-4b72-93cd-ae8fa6c0795c)
+
+
 Reflection on Performance Testing and Profiling
 When it comes to optimizing application performance, JMeter and IntelliJ Profiler take different approaches. 
 JMeter is great for simulating real-world traffic and measuring how the application performs under load. It helps identify slow endpoints, bottlenecks, and response times at scale. On the other hand, IntelliJ Profiler focuses on what’s happening inside the application—things like CPU usage, memory allocation, and inefficient code execution. While JMeter tells you “something is slow”, the profiler helps you figure out why it’s slow.
